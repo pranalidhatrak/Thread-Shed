@@ -63,7 +63,7 @@ Hannah Pratt;,;   $22.61   ;,;   purple&yellow
 ;,;09/15/17,Gayle Richards;,;$22.19 ;,; 
 green&purple&yellow ;,;09/15/17   ,Stanley Holland 
 ;,; $7.47   ;,; red ;,; 09/15/17 , Anna Dean;,;$5.49 ;,; yellow&red ;,;   09/15/17   ,
-Terrance Saunders ;,;   $23.70  ;,;green&yellow&red 
+Terrance Saunders ;,;   $23.70  ;,;green&yellow&red&fuscia 
 ;,; 09/15/17 ,   Brandi Zimmerman ;,; $26.66 ;,; 
 red   ;,;09/15/17 ,Guadalupe Freeman ;,; $25.95;,; 
 green&red ;,;   09/15/17   ,Irving Patterson 

@@ -50,7 +50,7 @@ for thread in thread_sold:
     for i in thread.split("&"):
         thread_sold_split.append(i)
 
-# Define a function to count occurrences of a specific color in thread_sold_split
+# Define a function to count occurrences of a specific color in thread_sold_split.
 def color_count(color):
     count = 0
     for thread in thread_sold_split:
